@@ -1,0 +1,6 @@
+For this program, it is implemented with python language, as a major area in computer science research is bioinformatics, which in large part deals with the intersection of biglogy and software. At some point, the basic knowledge about DNA, composed of four types of "bases":
+      A - adenine
+      C - cytosine
+      G - guanine
+      T - thymine
+The problem statent: the program will take bases as input and generate a summary of the GC-content, which means, the list of the DNA has G and C bases, and the program will calculate the percentage of the G and C in the list, and the program can tell whether the input is valid base, if the input base is not valid, the program will exit using exit(), and the program can calculate the cumulative number of bases in the list.
